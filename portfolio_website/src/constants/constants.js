@@ -18,8 +18,8 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    title: 'Top-Down Survival Shooter',
+    description: "This is a game I developed over a summer in college. It is a top-down survival shooter where I learned how to implement certain principles of game design.",
       image: '/images/3.png',
       tags: ['Unity', 'C#'],
     source: 'https://github.com/gpmeyers/unity-top-down-shooter',
@@ -27,8 +27,8 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    title: 'Endless runner',
+    description: "This is a the first game that I finished. It is an endless runner with blocky graphics.",
     image: '/images/4.png',
     tags: ['Unity', 'C#'],
     source: 'https://github.com/gpmeyers/infv-406-FinalDevelopedGame',
